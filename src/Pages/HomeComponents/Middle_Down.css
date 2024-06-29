@@ -1,0 +1,71 @@
+.container2{
+     background-color: rgb(50, 50, 155); 
+    position: relative;
+    top: -300px;
+    height: 400px;
+}
+#img2{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.details{
+    background-color: rgb(30, 30, 99); 
+   position: relative;
+   top: 50px;
+   height: 300px;
+   width: 1200px;
+   margin-left: 77px;
+}
+#Mcomsats{
+    color: white;
+    font-weight: bold;
+    margin-left: 290px;
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+  
+}
+#Sahiwal1{
+    color: white;
+    color: white;
+    font-weight: bold;
+    margin-left: 290px;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+#Deatials1{
+    color: white;
+    margin-left: 290px;
+    position: relative;
+    top: 40px;
+    font-size: 13px;
+  
+}
+#Deatials2{
+    color: white;
+    margin-left: 290px;
+    position: relative;
+    top: 30px;
+    font-size: 13px;
+}
+#btn1{
+    margin-left: 290px;
+    position: relative;
+    top: 60px;
+    width: 100px;
+    height: 35px;
+    background-color: yellow;
+    border: none;
+    font-size: 12px;
+    transition: 0.2s ease;
+
+}
+#btn1:hover{
+    background-color: transparent;
+    border: 1px solid yellow;
+    color: yellow;
+}

@@ -1,0 +1,44 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+.container{
+    background-color: rgb(50, 50, 155);
+    position: relative;
+    top: -385px;
+    width: 450px;
+    height: 300px;
+}
+#welcome{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+}
+#visitors{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 73px;
+}
+#btn{
+   margin-left: 160px;
+   position: relative;
+   top: 90px;
+   width: 100px;
+   height: 30px;
+   background-color: rgb(255, 255, 0);
+   border: none;
+   font-size: 12px;
+   transition: 0.2s ease;
+
+}
+#btn:hover{
+    background-color: transparent;
+    border: 1px solid yellow;
+    color: yellow;
+}
